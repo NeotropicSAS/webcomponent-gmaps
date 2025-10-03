@@ -1,6 +1,9 @@
-# \<google-map\>
+# Web Component for Google Maps
 
-&lt;google-map&gt; is a web component displays a map using Maps JavaScript API
+A simple web component for [Google Maps](https://maps.google.com).
+
+# License
+This component is licensed under the Apache License version 2.
 
 ## Install the Polymer-CLI
 
